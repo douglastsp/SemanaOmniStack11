@@ -29,22 +29,22 @@ para ajuda-los nesse caso.
 
 Atraves dos comandos:
 
-# Clonar esse repositório:
+#### Clonar esse repositório:
 
 $ git clone https://github.com/douglastsp/SemanaOmniStack11
 
-# Vá para o repositório
+#### Vá para o repositório
 
 $ cd SemanaOmniStack11/backend
 
-# Instale as dependências
+#### Instale as dependências
 
 $ npm install
 
-# Rode as migrates
+#### Rode as migrates
 
 $ npx knex migrate:latest
 
-# Execute a aplicação
+#### Execute a aplicação
 
 $ npm start
