@@ -11,6 +11,11 @@ A aplicação web para a Ong cadastrar a instituição e seus casos.
 A aplicação Mobile para os Heróis, pessoas que gostam de praticar o bem, encontrarem o caso, entrar em contato com a Ong,
 para ajuda-los nesse caso.
 
+### Imagens do projeto
+
+![BeTheHeroProject](https://github.com/douglastsp/SemanaOmniStack11/blob/master/BeTheHero.gif)
+
+
 ## Tecnologias utilizadas:
 
 -Node.js + Express
